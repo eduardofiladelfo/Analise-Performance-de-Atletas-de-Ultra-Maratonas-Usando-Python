@@ -30,7 +30,7 @@ Nessa fase inicial de preparação, faremos as seguintes tarefas:
 3. Descobrir qual dos países tiveram a maior quantidade desses eventos.
 4. Buscar nesse país o evento com o maior número de participantes.
    
-Obs.: Faremos a filtragem dos países já na primeira etapa por se tratar de uma base com diferentes tipos de provas. Convém inicialmente filtrar de acordo com os critérios estabelecidos para posteriormente iniciarmos a limpeza e o tratamento dos dados.
+Obs.: Faremos a filtragem dos países já na primeira etapa por se tratar de uma base com diferentes tipos de provas. Convém inicialmente filtrar de acordo com métricas estabelecidas para posteriormente iniciarmos a limpeza e o tratamento dos dados.
 
 ### Limpeza e tratamento dos dados
 
