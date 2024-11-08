@@ -20,7 +20,7 @@ Talvez seja necessário criar uma conta do Kaggle para acessar esse conjunto de 
 
 - Pandas: Manipulação dos dados
 - Numpy: Computação numérica
-- Matplotlib/Seaborn/Plotly: Visualização dos dados
+- Matplotlib/Seaborn: Visualização dos dados
 
 ### Importação e filtragem dos dados
 Nessa fase inicial de preparação, faremos as seguintes tarefas:
