@@ -14,7 +14,7 @@ Talvez seja necessário criar uma conta do Kaggle para acessar esse conjunto de 
 
 ### Ferramentas 
 
-- Python: Análise dos dados e visualização
+- Python: Análise dos dados e visualização dos gráficos.
   
 #### Bibliotecas
 
